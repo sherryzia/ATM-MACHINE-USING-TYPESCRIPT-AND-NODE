@@ -1,0 +1,26 @@
+{
+  "type": "module",
+  "name": "atm_sherry",
+  "version": "1.0.1",
+  "description": "This somewhat complex TypeScript/Node.js project is a console-based application. When the system starts the user is prompted with a user id and user pin. After entering the details successfully, the ATM functionalities are unlocked. All the user data is generated randomly.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "inquirer": "^9.2.13"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sherryzia/PIAIC.git#main"
+  },
+  "bugs": {
+    "url": "https://github.com/sherryzia/PIAIC/issues"
+  },
+  "homepage": "https://github.com/sherryzia/PIAIC/tree/main#readme"
+}
